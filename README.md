@@ -1,7 +1,6 @@
-```markdown
 # ERPL DDOS - UDP Flood Tool
 
-![Banner](https://via.placeholder.com/800x200/8A2BE2/FFFFFF?text=ERPL+DDOS) <!-- Tu peux remplacer par une vraie image plus tard -->
+![Banner]([https://via.placeholder.com/800x200/8A2BE2/FFFFFF?text=ERPL+DDOS](https://cdn.discordapp.com/banners/1495494995673747618/2bf4494040ed2d77513ce1480f8131a5.jpg?size=2048) 
 
 **Third Update**  
 **Tool by @ind3nt_**
