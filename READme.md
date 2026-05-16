@@ -1,6 +1,6 @@
 # ERPL DDOS - UDP Flood Tool
 
-[![ERPL DDOS](https://cdn.discordapp.com/banners/1495494995673747618/2bf4494040ed2d77513ce1480f8131a5.jpg?size=2048)](https://github.com/ipcscyber/ERPL-DDOS)
+[![ERPL DDOS](https://cdn.discordapp.com/attachments/1320369061439344731/1505175101430173857/image.png?ex=6a09ab0c&is=6a08598c&hm=48dddbdd0bf46d58608e2e059cf2b6e7204b9a1967c8cb80c5a278a23d930c61&)
 
 **Third Update**  
 **Tool by @ind3nt_**
