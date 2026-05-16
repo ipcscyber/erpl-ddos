@@ -1,6 +1,6 @@
-# ERPL DDOS - UDP Flood Tool
+# DDOS - UDP Flood Tool
 
-[![ERPL DDOS](https://cdn.discordapp.com/attachments/1320369061439344731/1505175101430173857/image.png?ex=6a09ab0c&is=6a08598c&hm=48dddbdd0bf46d58608e2e059cf2b6e7204b9a1967c8cb80c5a278a23d930c61&)
+[![ERPL DDOS](https://cdn.discordapp.com/attachments/1320369061439344731/1505230336542642318/image.png?ex=6a09de7e&is=6a088cfe&hm=dfff04b38675f277fdbaf54d7c8c726405fcf7752ddea71738da18580e1ca584&)
 
 **Third Update**  
 **Tool by @ind3nt_**
@@ -9,19 +9,9 @@
 
 ## 📝 Description
 
-**ERPL DDOS** is a simple yet powerful UDP Flood DDoS testing tool written in Python. It allows users to perform stress tests on targets using UDP packet flooding.
+**DDOS** is a simple yet powerful UDP Flood DDoS testing tool written in Python. It allows users to perform stress tests on targets using UDP packet flooding.
 
 > **⚠️ Educational & Testing Purposes Only**
-
----
-
-## ✨ Features
-
-- Clean and beautiful ASCII banner with colors
-- Cross-platform compatibility (Windows & Linux)
-- UDP Flood attack implementation
-- Easy to use command-line interface
-- Lightweight and fast
 
 ---
 
